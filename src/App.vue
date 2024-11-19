@@ -3,11 +3,9 @@
 </script>
 
 <template>
-<div>
-
-</div>
+    <div>
+        我是APP
+    </div>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
